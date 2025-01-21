@@ -1,0 +1,107 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+nav{
+    margin-top: 3%;
+    display:flex;    
+}
+.pulsante{
+    text-align: center;    
+    font-family: Georgia;
+    font-size: x-large;
+    padding-top: 10px;
+    width: 14.2%;
+    height: 50px;
+    color:white;
+    background-color: rgb(228,79,138);
+    border: 2px solid white;   
+}
+a:link{
+    text-decoration: none;
+}
+
+h1{
+    font-family: Georgia;
+    text-align: center;
+    color:black;
+    width: 100%;
+    height: 70px;
+}
+
+.ruth_handler{
+    height: 350px;
+    text-align: center;
+}
+
+.testo1{
+    text-align: center;
+}
+
+.div1{
+    float: left;
+    padding-left: 1%;    
+}
+
+.div2{    
+    padding-top: 20px;
+}
+
+.storia{     
+    height: 300px;
+    text-align: center;
+}
+
+.div3{
+    float: left;
+    padding-left: 4%; 
+    padding-top: 10px;     
+}
+
+.footer{
+    background-color: rgb(228,79,138);
+    height: 300px;
+    width: 100%;
+}
+
+.siti{    
+    padding-top: 10px;
+    width: 40%;
+    height: 100px;
+    background-color: rgb(228,79,138);
+}
+
+.immagine{
+    width: 20%;
+    height: 100px;
+}
+
+
+.registrato{
+    text-align: center;
+}
+
+.divimmagini1{
+    width: 100%;
+    height: 401 px;
+    
+}
+
+.spazio{
+    width: 350px;
+}
+
+.vetrina{
+    height: 400px;
+}
+
+.didascalia1{
+    margin-top: 90px;
+    width: 100%;
+    
+}
+
+.trama{
+    padding-left: 3%;
+    padding-right: 3%;
+}
